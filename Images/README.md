@@ -1,0 +1,1 @@
+Github's file limit is 100MB and all the images together results in a 176MB zip file. I have split the images into a 6 part zip file to get around this.
